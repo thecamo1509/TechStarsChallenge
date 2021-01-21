@@ -27,6 +27,8 @@ The technical challenge solving process is divided in different phases:
 
 ## Checking for actual solutions, what is currently out there?
 One of the current solution I found was for obvious reasons Google calendar, google calendar offers the possiblity to create events based on the current availability of both parts. However according to techstars current needs Google calendar stills being so manual.
+
+
 ![Gooogle Calendar](https://www.amocrm.com/static/images/pages/integrations/logo/google-calendar.png)
 
 Another solution I found was https://www.scheduleit.com/ One classroom assignment software, I took a look at this project as a reference to identify how could we assign a specific object based on time availability.
